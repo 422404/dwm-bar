@@ -1,3 +1,5 @@
+Font Awesome must be installed!
+
 # dwm-bar
 A modular statusbar for DWM
 ![screenshot](sshot.png)
